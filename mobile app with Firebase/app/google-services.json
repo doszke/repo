@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389658003284",
+    "firebase_url": "https://asystent-pacjenta-2.firebaseio.com",
+    "project_id": "asystent-pacjenta-2",
+    "storage_bucket": "asystent-pacjenta-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389658003284:android:92d5a030888d2277",
+        "android_client_info": {
+          "package_name": "e.ib.asystentpacjenta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389658003284-tspodg7p4un45ds0q9sluhjncprp24cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgfPEF5DrqMWHFR5CWdretoDaIQMCqxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389658003284-tspodg7p4un45ds0q9sluhjncprp24cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

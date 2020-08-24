@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Asystent Pacjenta</string>
+
+    <!-- activity_main -->
+    <!-- przyciski -->
+    <string name="am_btn_add">Dodaj</string>
+    <string name="am_btn_delete">Usuń</string>
+    <string name="am_btn_modify">Zmień</string>
+
+    <!-- text view + sample -->
+    <string name="am_tv_select_sample">Wybrano:</string>
+    <string name="am_tvsearchEngine">Wyszukiwarka:</string>
+
+    <!-- activity_edit -->
+    <!-- text view -->
+    <string name="em_tv_mode">Tryb pracy:</string>
+    <string name="em_tv_tag">Tag</string>
+    <string name="em_tv_info">Szczegółówe informacje</string>
+
+
+    <!-- przyciski -->
+    <string name="em_tv_exec">Wykonaj</string>
+
+
+</resources>

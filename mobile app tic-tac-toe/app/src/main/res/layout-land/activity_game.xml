@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="horizontal"
+              android:padding="10dp"
+              android:gravity="center">
+
+
+    <view class="e.ib.tictactoe.impl.TicTacToe"
+          android:layout_width="300dp"
+          android:layout_height="300dp"
+          android:id="@+id/board"
+          android:layout_margin="15dp"/>
+
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/reset"
+            android:onClick="reset"
+            style="@style/btnStyle"
+            android:text="@string/gameReset"
+            android:layout_margin="15dp"/>
+
+    <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/main"
+            android:onClick="main"
+            style="@style/btnStyle"
+            android:text="@string/btn_game_main"
+            android:layout_margin="15dp"/>
+
+
+</LinearLayout>
